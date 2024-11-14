@@ -16,4 +16,4 @@ Social                   | [![Gmail Badge](https://img.shields.io/badge/Gmail-D1
 
 ----------
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lumiknows&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
