@@ -1,4 +1,4 @@
-## About Me
+## Info
 
 Bachelor of Science in Computer Science<br>
 University Of Cebu<br>
@@ -14,3 +14,6 @@ Framework                | ![Net Badge](https://img.shields.io/badge/.NET-512BD4
 Games                    | ![Valorant Badge](https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white) ![CSGO Badge](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)![Origin Badge](https://img.shields.io/badge/Origin-F56C2D?style=for-the-badge&logo=origin&logoColor=white)![Epic Badge](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white!)![Battlenet Badge](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)
 Social                   | [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:playboysright@gmail.com)[![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/lumiknows/)![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 
+----------
+
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lumiknows&hide=javascript,css,scss,html&theme=tokyonight)
