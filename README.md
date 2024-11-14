@@ -1,7 +1,7 @@
 ## About Me
 
-Bachelor of Science in Computer Science
-University Of Cebu
+Bachelor of Science in Computer Science<br>
+University Of Cebu<br>
 21
 
 ## Profile
