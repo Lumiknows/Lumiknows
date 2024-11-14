@@ -3,7 +3,7 @@
 Bachelor of Science in Computer Science<br>
 University Of Cebu<br>
 21
-
+----
 ## Profile
 Property                 | Data  
 -------------------------|------
@@ -16,4 +16,4 @@ Games                    | ![Valorant Badge](https://img.shields.io/badge/Valora
 Social                   | [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:playboysright@gmail.com)[![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/lumiknows/)![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 
 ----
------
+----
